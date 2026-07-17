@@ -22,5 +22,5 @@ The Arduino reads the potentiometer value using analogRead(). The value is conve
 - Simulation using Wokwi
 
 ## Author
-Bhavana R
-B.E. Electrical and Electronics Engineering
+   - Bhavana R
+   - B.E. Electrical and Electronics Engineering
